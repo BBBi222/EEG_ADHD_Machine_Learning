@@ -13,5 +13,5 @@ Research question: Can participant-level ADHD status be predicted from EEG recor
 during a visual-attention task and how much discriminative information is provided by
 time-domain, frequency-domain and coarse temporal-position features?
 
-Some notebooks were originally developed in Google Colab environments.
+Some notebooks were originally developed in Google Colab environments and subsequently uploaded to GitHub to provide sample code and examples of previous work.
 Before running the code, replace any placeholder file or folder paths with the corresponding paths on your system.
